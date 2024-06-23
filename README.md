@@ -30,15 +30,16 @@ Leveraged Power BI's bookmark feature to manage visibility of elements dynamical
 
 ### Total Reported Cases: 
 Highlighted the cumulative impact of malaria across the continent.
-![malaria cases reported](https://github.com/ayodele18/Power-BI-Project/assets/173463305/7921ec98-2733-41f8-9ccc-08796571f1ef)
+# ![malaria cases reported](https://github.com/ayodele18/Power-BI-Project/assets/173463305/7921ec98-2733-41f8-9ccc-08796571f1ef)
 ### Average Cases Per Year: 
 Visualized trends in annual malaria incidence to identify patterns and seasonal variations.
-![avg cases per year](https://github.com/ayodele18/Power-BI-Project/assets/173463305/626b0bbd-c658-410a-b341-be97f6b87237)
+# ![avg cases per year](https://github.com/ayodele18/Power-BI-Project/assets/173463305/626b0bbd-c658-410a-b341-be97f6b87237)
 
 ### High/Low Impact Countries: 
 Identified countries with the highest and lowest malaria burdens, guiding targeted intervention strategies.
-![most cases](https://github.com/ayodele18/Power-BI-Project/assets/173463305/55d3bd7a-5850-487b-8298-7a1354794e96) 
-![least countries](https://github.com/ayodele18/Power-BI-Project/assets/173463305/69245f73-dacf-449f-847b-244fd56d1635)
+# ![most cases](https://github.com/ayodele18/Power-BI-Project/assets/173463305/55d3bd7a-5850-487b-8298-7a1354794e96) 
+
+# ![least countries](https://github.com/ayodele18/Power-BI-Project/assets/173463305/69245f73-dacf-449f-847b-244fd56d1635)
 
 # Visualizations:
 ![Malaria in africa Dashboard](https://github.com/ayodele18/Power-BI-Project/assets/173463305/9be0cf71-c5e0-4801-b730-f137c777982e)
